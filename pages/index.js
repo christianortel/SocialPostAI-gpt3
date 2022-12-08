@@ -47,7 +47,7 @@ const callGenerateEndpoint = async () => {
             <h1>SocialPost AI</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Tell us the crypto topic, sentence, paragraph, whatever of your social media post, AI will handle the rest for you (ex. Ethereum and its price, Solana and its transaction speed, the NFT space).</h2>
+            <h2>Tell us the topic, sentence, paragraph, article content, whatever for your social media post, AI will handle the rest for you (ex. object oriented programming in java, Elon Musks hairline, the NFT space).</h2>
           </div>
           <div className="prompt-container">
             <textarea 
